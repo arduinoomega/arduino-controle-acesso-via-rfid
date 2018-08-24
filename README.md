@@ -1,4 +1,4 @@
 # Controle de acesso via RFID
-Controle de acesso usando um Módulo RFID
+Controle de acesso usando um Módulo RFID, Arduino Nano, Leds e um buzzer.
 
-Veja o tutorial completo deste código em: http://portaldoarduino.com.br/controle-de-acesso-por-rfid/
+O tutorial completo pode ser visto em: http://portaldoarduino.com.br/controle-de-acesso-por-rfid/
